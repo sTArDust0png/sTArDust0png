@@ -25,9 +25,9 @@ SIGN MY ATA!!
 https://vebo.atabook.org/
 </p>
 <br>
-</div>
+</br>
 <p>
-    <img src="https://i.postimg.cc/5t04zy7g/cddad98c96de7760537a8efdc428738c-removebg-preview.png" width="400px" align="center" >
+    <img src="https://i.postimg.cc/5t04zy7g/cddad98c96de7760537a8efdc428738c-removebg-preview.png" width="400px" align="center"/>
 </p>
 <br>
 </br>
