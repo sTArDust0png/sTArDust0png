@@ -26,11 +26,9 @@ https://vebo.atabook.org/
 </p>
 <br>
 </div>
-<div align="center">
 <p>
-    <img src="https://i.postimg.cc/5t04zy7g/cddad98c96de7760537a8efdc428738c-removebg-preview.png" width="400px" >
+    <img src="https://i.postimg.cc/5t04zy7g/cddad98c96de7760537a8efdc428738c-removebg-preview.png" width="400px" align="center" >
 </p>
-</div>
 <br>
 </br>
 <img src="https://i.postimg.cc/4ddc2X8Q/476ae9038420b201c32f020495d20e4a-removebg-preview.png" align="left" width="330" />
