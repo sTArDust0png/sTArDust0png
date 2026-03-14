@@ -1,3 +1,7 @@
+<div align="center">
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sTArDust0png&label=views&color=blue&style=flat-square&abbreviated=true)    
+</div>
 <img src="https://i.postimg.cc/wMDj0PdM/840aa765ab477d667614d760138fd52c-removebg-preview.png" align="left" width="330" />
 <div align="center"/>
 <p>
