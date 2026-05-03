@@ -48,9 +48,11 @@ https://spacehey.com/bugboy
 <p>
 strawpage:
   
-[coming soon]
+https://vebopng.straw.page/
     <p>
 </p>
     </div>
 <br clear="left"/>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=crrtenz2z959hp3iiilms2jvl&cover_image=true&theme=spotify-embed&show_offline=false&background_color=ffffff&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
 
