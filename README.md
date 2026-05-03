@@ -6,7 +6,7 @@
 <div align="center"/>
 <p>
   
-**vebo** / vega / finn
+vebo / vega / **andrew**
 
 any pronouns but i prefer he/they
 </p>
